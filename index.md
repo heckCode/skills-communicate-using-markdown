@@ -4,6 +4,10 @@
 
 ### The third! 
 
-#### Just checking sizes
+#### Adding some Javascript
+
+``` javascript
+var myVar = "Hello, world!";
+```
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
